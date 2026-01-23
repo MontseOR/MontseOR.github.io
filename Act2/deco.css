@@ -1,0 +1,168 @@
+/* Código Diseño CSS*/
+
+h1{
+    color: #1C2E9C;
+}
+h2{
+    color: #2643DE;
+}
+
+/* Pág. Info. Montse*/
+.bodyMontse {
+    background-image: url('Imagenes/top3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.contenedor-cuadro {
+    background-color: white;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    max-width: 600px;
+    text-align: center;
+}
+
+.Montse {
+    color: #B427F5;
+    font-weight: 700;
+}
+.Montse a{
+    color: inherit;
+    text-decoration: none;
+}
+
+li{
+    font-family: Montserrat;
+}
+
+h1{
+    font-family: Bebas Neu;
+}
+
+a{
+    font-family: Montserrat;
+}
+
+/* Pág. Info. Christian */
+.bodyChristian {
+    background-image: url('Imagenes/f1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.contenedor-cuadro {
+    background-color: white;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    max-width: 600px;
+    text-align: center;
+}
+
+.Christian {
+    color: #d5dbe0;
+    font-weight: 700;
+}
+
+.Christian a{
+    color: inherit;
+    text-decoration: none;
+}
+
+/* Página de inicio */
+.bodyInicio {
+    background-image: url('Imagenes/buap.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Lista del equipo */
+.lista-equipo {
+    list-style: none;
+    padding: 0;
+}
+
+.lista-equipo li {
+    margin: 12px 0;
+    font-size: 18px;
+}
+
+/* Enlaces */
+.lista-equipo a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.Christian {
+    color: #1C2E9C;
+    font-weight: bold;
+}
+
+.bodyPaul {
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.contenedor-cuadro {
+    background-color: white;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    max-width: 600px;
+    text-align: center;
+}
+
+.bodyBrian {
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.contenedor-cuadro {
+    background-color: white;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    max-width: 600px;
+    text-align: center;
+}
